@@ -36,7 +36,7 @@ theme_settings:
   tumblr:
   twitter:
   wordpress:
-  youtube: https://www.youtube.com/channel/UC-zPsFYcvrcpj8Bsu8OSULA
+  youtube: "UC-zPsFYcvrcpj8Bsu8OSULA"
 
   # Scripts
   google_analytics: "UA-96995309-1"
