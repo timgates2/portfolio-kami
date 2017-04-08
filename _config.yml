@@ -1,45 +1,45 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
-url: "http://www.your-domain.com" # the base hostname & protocol for your site
+url: "https://timgates2.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Tyrion Lannister # Your name will go here
+  title: Tim Gates Jr. # Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
-     <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
+     <h1>Full-Stack Developer</h1>
+     <p>I'm a Junior developer specializing in Javascript, Rails and Angular.js.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "findme@timgatesjr.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: # github profile name, e.g. "madebymunsters"
-  google_plus:
+  github: "timgates2"
+  google_plus: "107020662824072811734"
   instagram:
-  linkedin:  # Full URL
+  linkedin:  https://www.linkedin.com/in/timgatesjr
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
-  steam:
+  steam: "76561198087524999/"
   tumblr:
   twitter:
   wordpress:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-96995309-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
